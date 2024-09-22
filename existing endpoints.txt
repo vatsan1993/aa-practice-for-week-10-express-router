@@ -1,0 +1,5 @@
+GET /people
+POST /people/:personId/likes
+delete /people/:personId
+get /people/best-dressed/comments
+get /people/people/:name/lookup"
